@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*~
+
+# 环境
+venv/
+.env/
+.venv/
+
+# 临时
+*.tmp
+*.swp
+*.bak
+
+# 参考论文（版权归原作者，不上传）
+references/
